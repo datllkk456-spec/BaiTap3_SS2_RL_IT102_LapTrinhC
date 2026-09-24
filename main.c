@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-#define BASE_FARE 12000.0
-#define BASE_DISTANCE 2.0
-#define EXTRA_RATE 4500.0
-#define SURGE_MULTIPLIER 1.2
-
 int main(void) {
     double distance_km;
     int is_surge;
